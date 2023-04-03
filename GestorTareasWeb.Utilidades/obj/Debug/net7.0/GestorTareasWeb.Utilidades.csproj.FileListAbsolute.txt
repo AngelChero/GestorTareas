@@ -1,0 +1,12 @@
+C:\Users\Angel\Desktop\Angel\GestorTareasWeb\GestorTareasWeb.Utilidades\bin\Debug\net7.0\GestorTareasWeb.Utilidades.deps.json
+C:\Users\Angel\Desktop\Angel\GestorTareasWeb\GestorTareasWeb.Utilidades\bin\Debug\net7.0\GestorTareasWeb.Utilidades.dll
+C:\Users\Angel\Desktop\Angel\GestorTareasWeb\GestorTareasWeb.Utilidades\bin\Debug\net7.0\GestorTareasWeb.Utilidades.pdb
+C:\Users\Angel\Desktop\Angel\GestorTareasWeb\GestorTareasWeb.Utilidades\obj\Debug\net7.0\GestorTareasWeb.Utilidades.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\Angel\GestorTareasWeb\GestorTareasWeb.Utilidades\obj\Debug\net7.0\GestorTareasWeb.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\Angel\GestorTareasWeb\GestorTareasWeb.Utilidades\obj\Debug\net7.0\GestorTareasWeb.Utilidades.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\Angel\GestorTareasWeb\GestorTareasWeb.Utilidades\obj\Debug\net7.0\GestorTareasWeb.Utilidades.AssemblyInfo.cs
+C:\Users\Angel\Desktop\Angel\GestorTareasWeb\GestorTareasWeb.Utilidades\obj\Debug\net7.0\GestorTareasWeb.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Angel\GestorTareasWeb\GestorTareasWeb.Utilidades\obj\Debug\net7.0\GestorTareasWeb.Utilidades.dll
+C:\Users\Angel\Desktop\Angel\GestorTareasWeb\GestorTareasWeb.Utilidades\obj\Debug\net7.0\refint\GestorTareasWeb.Utilidades.dll
+C:\Users\Angel\Desktop\Angel\GestorTareasWeb\GestorTareasWeb.Utilidades\obj\Debug\net7.0\GestorTareasWeb.Utilidades.pdb
+C:\Users\Angel\Desktop\Angel\GestorTareasWeb\GestorTareasWeb.Utilidades\obj\Debug\net7.0\ref\GestorTareasWeb.Utilidades.dll
